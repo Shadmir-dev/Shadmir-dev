@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadmir</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🌍 Passionate about building scalable web applications |
-  🚀 Focused on clean UI, performance & real-world solutions</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🌍 Passionate about building scalable web applications |<br/> 🚀 Focused on clean UI, performance & real-world solutions</h3>
 
 ---
 
