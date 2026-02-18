@@ -3,7 +3,7 @@
 
 ---
 
-🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 🔭 Currently working on Full Stack Projects  
 🌱 Learning advanced backend architecture & DevOps  
