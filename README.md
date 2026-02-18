@@ -1,43 +1,23 @@
-👋 Hi, I'm Shadmir
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shadmir</h1>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist</h3>
 
-💻 Full Stack Web Developer
-🌍 Passionate about building scalable web applications
-🚀 Focused on clean UI, performance & real-world solutions
+<p align="center">
+  <a href="https://github.com/Shadmir-dev">
+    <img src="https://komarev.com/ghpvc/?username=Shadmir-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-🧠 About Me
+---
 
-🔭 Currently working on Full Stack Projects
-🌱 Learning advanced backend architecture & DevOps
-💡 Interested in SaaS products & startup ideas
-🎯 Goal: Become a Top-tier Full Stack Engineer
+## 💫 About Me
 
-⚙️ Tech Stack
+```javascript
+const shadmir = {
+  role: "Full Stack Web Developer",
+  stack: ["React", "Node.js", "Express", "MongoDB"],
+  focus: "Building scalable & modern web applications",
+  currentlyLearning: "Advanced Backend & DevOps",
+  goal: "Top Tier Software Engineer 🚀"
+};
 
-Frontend:
-
-HTML5
-CSS3
-JavaScript (ES6+)
-React.js
-Tailwind CSS
-
-Backend:
-
-Node.js
-Express.js
-MongoDB
-REST APIs
-
-Tools & Platforms:
-
-Git & GitHub
-VS Code
-Postman
-Firebase
-Vercel / Netlify
-
-📫 Connect With Me
-
-GitHub: https://github.com/Shadmir-dev
-LinkedIn: (Add your link)
-Email: shadmir.axiroid@gmail.com
