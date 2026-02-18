@@ -34,15 +34,9 @@ Tools & Platforms:
 . Firebase
 . Vercel / Netlify
 
-📌 Featured Projects
-. 🔥 Full Stack E-Commerce Website
-. 📋 Smart Task Manager
-. 🏋️ Gym Website (Target Fitness Zone)
-. 🌐 Portfolio Website
-
 ---
 
-## 🔥 Featured Projects
+## 📌 Featured Projects
 
 ⚡ Electric Xtra – Cyberpunk Landing Page
 A futuristic, neon-styled landing page featuring glitch effects, particle animations, and glassmorphism UI. 
