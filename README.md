@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hi, I'm Shadmir
 
-<!--
-**Shadmir-dev/Shadmir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer
+🌍 Passionate about building scalable web applications
+🚀 Focused on clean UI, performance & real-world solutions
 
-Here are some ideas to get you started:
+🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on Full Stack Projects
+🌱 Learning advanced backend architecture & DevOps
+💡 Interested in SaaS products & startup ideas
+🎯 Goal: Become a Top-tier Full Stack Engineer
+
+⚙️ Tech Stack
+
+Frontend:
+
+HTML5
+CSS3
+JavaScript (ES6+)
+React.js
+Tailwind CSS
+
+Backend:
+
+Node.js
+Express.js
+MongoDB
+REST APIs
+
+Tools & Platforms:
+
+Git & GitHub
+VS Code
+Postman
+Firebase
+Vercel / Netlify
+
+📫 Connect With Me
+
+GitHub: https://github.com/Shadmir-dev
+LinkedIn: (Add your link)
+Email: shadmir.axiroid@gmail.com
