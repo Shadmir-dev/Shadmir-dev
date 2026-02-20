@@ -38,9 +38,10 @@ Tools & Platforms:
 
 <h2 align="center">📌 Featured Projects</h2>
 
-⚡ Electric Xtra – Cyberpunk Landing Page
-A futuristic, neon-styled landing page featuring glitch effects, particle animations, and glassmorphism UI. 
-🔗 Live Demo: (https://salik-axi.github.io/electric-xtra-cyberpunk-landing-page/)
+⚡ Shadmir Cyber Vision
+A concept project showcasing futuristic UI/UX design.
+An immersive, dark-mode web experience featuring neon-glassmorphism, interactive hover states, and advanced layout techniques. Designed to demonstrate the power of modern frontend engineering.<br>
+🔗 Live Demo: (Link yahan dalen)
   
 
 ---
