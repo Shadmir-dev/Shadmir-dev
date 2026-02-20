@@ -53,7 +53,7 @@ A modern, high-performance portfolio website for a Digital Marketing & SEO Agenc
 ---
 
 
-🌐 Personal Portfolio Website: <br/>
+🌐 Personal Portfolio Website:
 A fully responsive and modern developer portfolio built to showcase my skills, projects, and experience. Clean UI, smooth animations, and optimized performance across all devices.<br/> 
 🔗 Live Demo:  https://shadmir-dev.github.io/shadmir-dev-portfolio/
   
