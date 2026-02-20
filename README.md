@@ -53,8 +53,8 @@ A modern, high-performance portfolio website for a Digital Marketing & SEO Agenc
 ---
 
 
-🚀 Salik-Axi Digital Agency
-A high-performance SEO & Digital Marketing portfolio built with Bootstrap 5 and animated UI. 
+🌐 Personal Portfolio Website
+A fully responsive and modern developer portfolio built to showcase my skills, projects, and experience. Clean UI, smooth animations, and optimized performance across all devices. 
 🔗 Live Demo:  https://shadmir-dev.github.io/shadmir-dev-portfolio/
   
 
