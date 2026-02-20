@@ -68,4 +68,4 @@ A fully responsive and modern developer portfolio built to showcase my skills, p
 
 ---
 
-⭐ From [Salik](https://github.com/Salik-Axi)
+⭐ From [Shadmir](https://github.com/Shadmir-dev)
