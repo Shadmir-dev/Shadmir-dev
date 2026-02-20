@@ -46,7 +46,7 @@ A futuristic, neon-styled landing page featuring glitch effects, particle animat
 ---
 
 🪐 Shadmir Nexus | Developer Portfolio
-A futuristic, space-themed personal website featuring immersive UI animations, responsive layouts, and a clean project showcase. Built to highlight Full Stack engineering skills.
+A futuristic, space-themed personal website featuring immersive UI animations, responsive layouts, and a clean project showcase. Built to highlight Full Stack engineering skills.<br>
 🔗 Live Demo: https://shadmir-dev.github.io/shadmir-nexus/
 
 ---
