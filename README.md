@@ -41,7 +41,7 @@ Tools & Platforms:
 ⚡ Shadmir Cyber Vision
 A concept project showcasing futuristic UI/UX design.
 An immersive, dark-mode web experience featuring neon-glassmorphism, interactive hover states, and advanced layout techniques. Designed to demonstrate the power of modern frontend engineering.<br>
-🔗 Live Demo: (Link yahan dalen)
+🔗 Live Demo:  https://shadmir-dev.github.io/shadmir-cyber-vision/
   
 
 ---
