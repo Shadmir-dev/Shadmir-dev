@@ -62,8 +62,8 @@ A high-performance SEO & Digital Marketing portfolio built with Bootstrap 5 and 
 
 <h2 align="center">📫 Connect With Me</h2>
 
-- 💼 Upwork: (https://www.upwork.com/freelancers/~0179c65d8c37ab2133)
-- 🌐 Portfolio: (https://www.behance.net/salikjaved2)
+- 💼 Upwork: (https://www.upwork.com/freelancers/~01f40e8dc9c6317dcf)
+- 🌐 Portfolio: (https://www.behance.net/shadmirbaig1)
 - 📧 Email: (shadmir.axiroid@gmail.com)
 
 ---
