@@ -38,15 +38,15 @@ Tools & Platforms:
 
 <h2 align="center">📌 Featured Projects</h2>
 
-⚡ Shadmir Cyber Vision
+⚡ Shadmir Cyber Vision:
 A concept project showcasing futuristic UI/UX design.
-An immersive, dark-mode web experience featuring neon-glassmorphism, interactive hover states, and advanced layout techniques. Designed to demonstrate the power of modern frontend engineering.<br>
+An immersive, dark-mode web experience featuring neon-glassmorphism, interactive hover states, advanced layout techniques. Designed to demonstrate the power of modern frontend engineering.<br>
 🔗 Live Demo:  https://shadmir-dev.github.io/shadmir-cyber-vision/
   
 
 ---
 
-🪐 Shadmir Nexus | Developer Portfolio
+🪐 Shadmir Nexus | Developer Portfolio:
 A futuristic, space-themed personal website featuring immersive UI animations, responsive layouts, and a clean project showcase. Built to highlight Full Stack engineering skills.<br>
 🔗 Live Demo: https://shadmir-dev.github.io/shadmir-nexus/
 
@@ -54,7 +54,7 @@ A futuristic, space-themed personal website featuring immersive UI animations, r
 
 
 🌐 Personal Portfolio Website:
-A fully responsive and modern developer portfolio built to showcase my skills, projects, and experience. Clean UI, smooth animations, and optimized performance across all devices.<br/> 
+A fully responsive and modern developer portfolio built to showcase my skills, projects, and experience. Clean UI, smooth animations, and optimized performance across all devices.<br> 
 🔗 Live Demo:  https://shadmir-dev.github.io/shadmir-dev-portfolio/
   
 
