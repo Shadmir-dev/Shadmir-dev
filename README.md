@@ -45,10 +45,9 @@ A futuristic, neon-styled landing page featuring glitch effects, particle animat
 
 ---
 
-🌌 Creative Motion Portfolio
-A modern, high-performance portfolio website for a Digital Marketing & SEO Agency using HTML5, Bootstrap, and Video Backgrounds.  
-🔗 Live Demo:  (https://salik-axi.github.io/salik-axi-seo-portfolio/)
-
+🪐 Shadmir Nexus | Developer Portfolio
+A futuristic, space-themed personal website featuring immersive UI animations, responsive layouts, and a clean project showcase. Built to highlight Full Stack engineering skills.
+🔗 Live Demo: https://shadmir-dev.github.io/shadmir-nexus/
 
 ---
 
