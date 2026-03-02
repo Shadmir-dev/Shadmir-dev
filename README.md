@@ -62,7 +62,7 @@ Live Demo:  https://shadmir-dev.github.io/shadmir-dev-portfolio/
 
 
 Shadmir's breast cancer project:
-Developed a Machine Learning-based Breast Cancer Prediction Web App using Streamlit and Scikit-learn, deployed online. 
+Developed a Machine Learning-based Breast Cancer Prediction Web App using Streamlit and Scikit-learn, deployed online.<br> 
 Live Demo:  https://shadmir-dev.github.io/shadmir-s-breast-cancer-project/
   
 
