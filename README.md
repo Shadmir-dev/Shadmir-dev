@@ -38,7 +38,7 @@ Tools & Platforms:
 
 <h2 align="center">Featured Projects</h2>
 
-Shadmir Cyber Vision:
+Shadmir's Cyber Vision:
 A concept project showcasing futuristic UI/UX design.
 An immersive, dark-mode web experience featuring neon-glassmorphism, interactive hover states, advanced layout techniques. Designed to demonstrate the power of modern frontend engineering.<br>
 Live Demo:  https://shadmir-dev.github.io/shadmir-cyber-vision/
@@ -46,7 +46,7 @@ Live Demo:  https://shadmir-dev.github.io/shadmir-cyber-vision/
 
 ---
 
-Shadmir Nexus | Developer Portfolio:
+Shadmir's Nexus | Developer Portfolio:
 A futuristic, space-themed personal website featuring immersive UI animations, responsive layouts, and a clean project showcase. Built to highlight Full Stack engineering skills.<br>
 Live Demo: https://shadmir-dev.github.io/shadmir-nexus/
 
@@ -55,6 +55,14 @@ Live Demo: https://shadmir-dev.github.io/shadmir-nexus/
 
 Personal Portfolio Website:
 A fully responsive and modern developer portfolio built to showcase my skills, projects, and experience. Clean UI, smooth animations, and optimized performance across all devices.<br> 
+Live Demo:  https://shadmir-dev.github.io/shadmir-dev-portfolio/
+  
+
+---
+
+
+Shadmir's breast cancer project:
+Developed a Machine Learning-based Breast Cancer Prediction Web App using Streamlit and Scikit-learn, deployed online. 
 Live Demo:  https://shadmir-dev.github.io/shadmir-dev-portfolio/
   
 
